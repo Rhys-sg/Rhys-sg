@@ -3,11 +3,30 @@ My name is Rhys Sorenson-Graff, and I am a Junior at Whitman College, studying H
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rhys-sorenson-graff/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sorensor) 
 
-# Tech Stack:
+## Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# Featured:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rhys-sg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rhys-sg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-sg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Blog Posts
+
+<a href="https://medium.com/@sorensor/rhys-individual-project-2-needfinding-for-personal-health-198898ccbb4f">Needfinding for Personal Health</a>
+
+<a href="https://medium.com/@sorensor/rhys-individual-project-3-designing-for-personal-health-7aabca713a2a">Designing for Personal Health</a>
+
+<a href="https://medium.com/@sorensor/visualizing-and-visceralizing-ufo-sightings-f315ae6bfea6">Visualizing and Visceralizing UFO Sightings</a>
+
+<a href="https://medium.com/@sorensor/campus-accessibility-at-whitman-college-134cd6eecc2">Campus Accessibility at Whitman College</a>
+
+
+## Figma
+
+<a href="https://www.figma.com/proto/iawRan1vCbUAfndibVdfql/Whitman-College-Accessibility-Interactive-Map?node-id=10-20&starting-point-node-id=10%3A20">Whitman College Accessibility Interactive Map</a>
+
+<a href="https://www.figma.com/proto/HJpApKr9aPpvBNlMoawu03/Climbing-Team-Design-System?node-id=1-26&starting-point-node-id=1%3A26">WClimbing Team Design System</a>
+
+
+## Programs
+
+<a href="https://github.com/Rhys-sg/Vector-Math">Vector Math</a>
+
+
+
