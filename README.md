@@ -21,7 +21,7 @@ My name is Rhys Sorenson-Graff, and I am a Junior at Whitman College, studying H
 
 <a href="https://www.figma.com/proto/iawRan1vCbUAfndibVdfql/Whitman-College-Accessibility-Interactive-Map?node-id=10-20&starting-point-node-id=10%3A20">Whitman College Accessibility Interactive Map</a>
 
-<a href="https://www.figma.com/proto/HJpApKr9aPpvBNlMoawu03/Climbing-Team-Design-System?node-id=1-26&starting-point-node-id=1%3A26">WClimbing Team Design System</a>
+<a href="https://www.figma.com/proto/HJpApKr9aPpvBNlMoawu03/Climbing-Team-Design-System?node-id=1-26&starting-point-node-id=1%3A26">Climbing Team Design System</a>
 
 
 ## Programs
