@@ -26,10 +26,12 @@ My name is Rhys Sorenson-Graff, and I am a Junior at Whitman College, studying H
 
 ## Programs
 
-<a href="https://github.com/Rhys-sg/Vector-Math">Vector Math</a>
-
 <a href="https://github.com/Rhys-sg/UFO-Data-Visualization">UFO Data Visualization</a>
+
+<a href="https://github.com/Rhys-sg/Evolution-of-Traffic-Jams">Evolution of Traffic Jams</a>
+
+<a href="https://github.com/Rhys-sg/Vector-Math">Vector Math</a>
 
 <a href="https://github.com/Rhys-sg/Haptic-Feedback-Navigation">Refactored Node Traversal: DFS Haptic Feedback Navigation</a>
 
-<a href="https://github.com/Rhys-sg/Evolution-of-Traffic-Jams">Evolution of Traffic Jams</a>
+
