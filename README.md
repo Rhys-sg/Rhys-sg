@@ -8,6 +8,8 @@ My name is Rhys Sorenson-Graff, and I am a Junior at Whitman College, studying H
 
 ## Blog Posts
 
+<a href="https://medium.com/@sorensor/balancing-risk-and-reward-how-successes-of-playground-design-highlight-the-failures-in-classrooms-97968f06858b">Balancing Risk and Reward</a>
+
 <a href="https://medium.com/@sorensor/rhys-individual-project-2-needfinding-for-personal-health-198898ccbb4f">Needfinding for Personal Health</a>
 
 <a href="https://medium.com/@sorensor/rhys-individual-project-3-designing-for-personal-health-7aabca713a2a">Designing for Personal Health</a>
