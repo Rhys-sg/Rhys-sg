@@ -28,7 +28,7 @@ My name is Rhys Sorenson-Graff, and I am a Junior at Whitman College, studying H
 
 ## Programs
 
-<a href="https://github.com/Rhys-sg/Haptic-Feedback-Navigation">Refactored Node Traversal: DFS Haptic Feedback Navigation</a>
+<a href="https://github.com/Rhys-sg/Multi-Processing-Python-Demo">DFS Haptic Feedback Navigation: Multi-Processing Python Demo</a>
 
 <a href="https://github.com/Rhys-sg/Vector-Math">Vector Math</a>
 
