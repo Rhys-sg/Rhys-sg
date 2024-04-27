@@ -17,10 +17,3 @@ My name is Rhys Sorenson-Graff, and I am a Senior at Whitman College, studying H
 <a href="https://medium.com/@sorensor/visualizing-and-visceralizing-ufo-sightings-f315ae6bfea6">Visualizing and Visceralizing UFO Sightings</a>
 
 <a href="https://medium.com/@sorensor/campus-accessibility-at-whitman-college-134cd6eecc2">Campus Accessibility at Whitman College</a>
-
-
-## Figma
-
-<a href="https://www.figma.com/proto/iawRan1vCbUAfndibVdfql/Whitman-College-Accessibility-Interactive-Map?node-id=10-20&starting-point-node-id=10%3A20">Whitman College Accessibility Interactive Map</a>
-
-<a href="https://www.figma.com/proto/HJpApKr9aPpvBNlMoawu03/Climbing-Team-Design-System?node-id=1-26&starting-point-node-id=1%3A26">Climbing Team Design System</a>
