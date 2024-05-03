@@ -1,5 +1,9 @@
 # About Me
-My name is Rhys Sorenson-Graff, and I am a Senior at Whitman College, studying Human-Computer Interaction and Design. I have worked with faculty and administrators to introduce this course of study at Whitman. My recent projects include working with the Walla Walla Valley Disability Network to improve their “parent-to-parent” communication systems, creating a haptic feedback navigation system for blind users, and an app for rock climbers to improve their training programs. This semester, I am teaching a credited course combining two of my passions: rock climbing and design at Whitman.
+My work revolves around the idea that holistic designs require a thoughtful approach and careful consideration of direct and indirect stakeholders.
+
+I have been fortunate to practice design thinking as a research assistant for Professor Jordan Wirfs-Brock, and my computational biology knowledge with mentorship from Professor Matthew Tien and Professor Delbert Hutchison. These experiences instilled in me a deep respect for human-centered design and promoted my passion for bioinformatics.
+
+As a research assistant, I have worked to study annotation layers of data representation across modalities. Through this experience, I have given guest lectures, run workshops, and have been working to publish our research in IEEE. My computational biology research has focused on machine learning and data science tools for bioengineering E. coli σ70-promoter sequences and analyzing coevolutionary arms races. While an undergraduate student at Whitman College, I designed a major: "Human-Computer Interaction and Design," taught a credited course applying human-centered design principles to rock climbing, and led student projects as a technical lead for the Whitman Google Developer Student Club.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhys-sorenson-graff/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sorensor) 
 
