@@ -30,6 +30,4 @@ As a research assistant, I have worked to study annotation layers of data repres
 
 <a href="https://medium.com/@sorensor/rhys-individual-project-3-designing-for-personal-health-7aabca713a2a">Designing for Personal Health</a>
 
-<a href="https://medium.com/@sorensor/visualizing-and-visceralizing-ufo-sightings-f315ae6bfea6">Visualizing and Visceralizing UFO Sightings</a>
-
 <a href="https://medium.com/@sorensor/campus-accessibility-at-whitman-college-134cd6eecc2">Campus Accessibility at Whitman College</a>
